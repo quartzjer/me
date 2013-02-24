@@ -1,1 +1,1 @@
-{"foo":42,"count":4}
+{"foo":42,"count":4,"units":{"/types/all":{"since":1361728249673,"until":1360722891000},"/services/runkeeper/fitness_activities":{"since":1361728249674,"until":1361728249674},"/services/fitbit/activities":{"since":1361728249676,"until":1361728249676}},"lastTotal":14,"lastRun":1361728250525}
